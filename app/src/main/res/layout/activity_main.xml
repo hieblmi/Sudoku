@@ -33,6 +33,7 @@
         android:layout_marginTop="68dp"
         android:background="@color/colorPrimaryDark"
         android:fontFamily="@font/audiowide"
+        android:onClick="startSudokuActivity"
         android:text="@string/start_button"
         android:textColor="@color/colorAccent"
         android:textSize="24sp"
